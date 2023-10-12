@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    width: 700px;
+    padding: 20px 60px;
+    margin: auto;
+}
+
+body{
+    background-color: #EEF2F4;
+}

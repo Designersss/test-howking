@@ -1,0 +1,100 @@
+{
+  "minutesConfigurator": [
+    {
+      "id": 0,
+      "option": 100,
+      "price": 50
+    },
+    {
+      "id": 1,
+      "option": 200,
+      "price": 100
+    },
+    {
+      "id": 2,
+      "option": 300,
+      "price": 250
+    },
+    {
+      "id": 3,
+      "option": 600,
+      "price": 450
+    }
+  ],
+  "smsConfigurator": [
+    {
+      "id": 0,
+      "option": 0,
+      "price": 0
+    },
+    {
+      "id": 1,
+      "option": 50,
+      "price": 70
+    },
+    {
+      "id": 2,
+      "option": 100,
+      "price": 100
+    },
+    {
+      "id": 3,
+      "option": 150,
+      "price": 120
+    }
+  ],
+  "internetConfigurator": [
+    {
+      "id": 0,
+      "option": 5,
+      "price": 50
+    },
+    {
+      "id": 1,
+      "option": 10,
+      "price": 60
+    },
+    {
+      "id": 2,
+      "option": 15,
+      "price": 100
+    },
+    {
+      "id": 3,
+      "option": 25,
+      "price": 130
+    }
+  ],
+  "additionalServices": [
+    {
+      "id": 0,
+      "img": "/src/assets/Group 514621.png",
+      "price": 50,
+      "active": false
+    },
+    {
+      "id": 1,
+      "img": "/src/assets/Group 514622.png",
+      "price": 50,
+      "active": false
+    },
+    {
+      "id": 2,
+      "img": "/src/assets/Group 514623.png",
+      "price": 50,
+      "active": false
+    },
+    {
+      "id": 3,
+      "img": "/src/assets/Group 514624.png",
+      "price": 50,
+      "active": false
+    },
+    {
+      "id": 4,
+      "img": "/src/assets/Group 514625.png",
+      "price": 50,
+      "active": false
+    }
+  ]
+}
